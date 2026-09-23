@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-magnium: #0F223F;
+  --color-magnium-light: #1E3A5F;
+}
